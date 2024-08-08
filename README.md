@@ -1,0 +1,2 @@
+# fuzzySVM
+fuzzy svm
